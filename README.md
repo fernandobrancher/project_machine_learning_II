@@ -6,7 +6,7 @@ Este projeto foi desenvolvido em grupo como requisito para conclusão do módulo
 
 O objetivo do presente projeto foi desenvolver um modelo de Machine Learning e análises exploratórias em um dataset escolhido pela equipe.
 
-Para tal, foi escolhido o dataset de músicas do Spotify encontrado em:
+Para tal, foi escolhido o dataset sobre Churn Customers em:
 - https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset 
 
 O modelo foi criado para predição de 'Churn'de clientes de uma empresa X, seguindo os passos:
